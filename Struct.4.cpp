@@ -21,4 +21,10 @@ int main()
     getline(cin, mhs.Alamat);
     cout << "Umur Mahasiswa: ";
     cin >> mhs.Umur;
+
+    cout << endl;
+    cout <<"\n NIM: " << mhs.NIM;
+    cout <<"\n Nama: " << mhs.Nama;
+    cout <<"\n Alamat: " << mhs.Alamat;
+    cout <<"\n Umur: " << mhs.Umur;
 }

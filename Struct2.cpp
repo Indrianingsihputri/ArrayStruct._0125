@@ -37,5 +37,4 @@ int main()
     cout <<"\n Alamat Desa: " << mhs.Alamat.desa;
     cout <<"\n Alamat Kota: " << mhs.Alamat.kota;
     cout <<"\n Umur: " << mhs.Umur;
-    
 }
